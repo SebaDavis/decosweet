@@ -2953,12 +2953,11 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 -----------------------------------------------------------
 */
 .tit1 {
-	font-family: Courgette;
+	font-family: 'Arizonia', cursive;
 	font-weight: 700;
-	font-size: 40px;
+	font-size: 60px;
 	line-height: 1.1;
 	color: white;
-	text-transform: uppercase;
 	letter-spacing: 10px;
 	word-spacing: 10px;
 }
@@ -3057,11 +3056,11 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 -----------------------------------------------------------
 */
 .txt1 {
-	font-family: Courgette;
-	font-size: 90px;
+	font-family: 'Arizonia', cursive;
+	font-size: 110px;
 	line-height: 1.1;
 	color: white;
-}
+  }
 
 .txt2 {
 	font-family: Poppins;
